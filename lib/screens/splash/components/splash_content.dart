@@ -21,9 +21,9 @@ class _SplashContentState extends State<SplashContent> {
       children: <Widget>[
         const Spacer(),
         const Text(
-          "Chef Planner",
+          "InstaFresh ChefPlanner",
           style: TextStyle(
-            fontSize: 32,
+            fontSize: 27,
             color: kPrimaryColor,
             fontWeight: FontWeight.bold,
           ),

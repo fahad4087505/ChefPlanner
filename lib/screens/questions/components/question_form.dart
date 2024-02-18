@@ -125,8 +125,6 @@ class _QuestionFormState extends State<QuestionForm> {
               // Add more RadioListTile widgets for other cuisines as needed
             ],
           ),
-
-
           const SizedBox(height: 20),
           TextFormField(
             keyboardType: TextInputType.number,
